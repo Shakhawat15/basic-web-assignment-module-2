@@ -1,0 +1,5 @@
+GitHub Repository Link: https://github.com/Shakhawat15/basic-web-assignment-module-2
+
+Live Deploy Link: https://famous-peony-02b7f5.netlify.app/
+
+GitHub Deploy Link: https://shakhawat15.github.io/basic-web-assignment-module-2/
